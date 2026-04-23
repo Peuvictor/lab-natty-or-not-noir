@@ -1,4 +1,6 @@
 The Rails Noir: O Deadlock de 1 Milhão de Dólares ;)
+
+
 📒 Descrição
 Uma narrativa imersiva em estilo Cinema Noir que explora a tensão técnica de um desenvolvedor enfrentando um bug crítico de banco de dados. O projeto utiliza IAs Generativas para fundir a estética do mistério clássico com a rotina de backend development, focando no máximo realismo visual e sonoro.
 
